@@ -11,7 +11,7 @@ This repository contains my implementations of various algorithms for the Pac-Ma
    - [Uniform Cost Search](http://math.wikia.com/wiki/Uniform_cost_search)
    - [A-Star Search](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
-2. **Adversarial Search Agents:**
+2. **Adversarial Search Algorithms:**
    - [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax)
    - [Alpha-Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
    - [Expectiminimax Algorithm](https://en.wikipedia.org/wiki/Expectiminimax_tree)
